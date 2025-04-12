@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<grupo>
+		<tipo>A</tipo>
+		<descripcion>Grupo Especial de clientes</descripcion>
+		<estado>Activo</estado>
+	</grupo>
+	<grupo>
+		<tipo>B</tipo>
+		<descripcion>Grupo mayor cantidad de producción</descripcion>
+		<estado>Activo</estado>
+	</grupo>
+	<grupo>
+		<tipo>C</tipo>
+		<descripcion>Grupo dedicado bajo consumo</descripcion>
+		<estado>Activo</estado>
+	</grupo>
+	<grupo>
+		<tipo>D</tipo>
+		<descripcion>Grupo irregular bajo consumo</descripcion>
+		<estado>Activo</estado>
+	</grupo>
+	<grupo>
+		<tipo>F</tipo>
+		<descripcion>Grupo consumo muy bajo</descripcion>
+		<estado>Activo</estado>
+	</grupo>
+</data>
